@@ -12,4 +12,7 @@ function generatePassword(len) {
   
   var pLength = 8;
   console.log("Generated Password:", generatePassword(pLength));
+
+
+  //refered
   
